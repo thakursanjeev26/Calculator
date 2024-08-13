@@ -9,7 +9,9 @@ public class Calculator {
         System.out.println("Addition is c"+c);
         //UC2
         c=a-b;
-        System.out.println("Subtraction" +
-                " is c"+c);
+        System.out.println("Subtraction" + " is c"+c);
+        //UC3
+        c=a*b;
+        System.out.println("Multipication is "+c);
     }
 }
